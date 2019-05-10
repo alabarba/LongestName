@@ -1,7 +1,8 @@
+
 import java.util.*;
 import java.lang.*;
 
-public static class LongestName{
+public class LongestName{
           public static void main (String[] args){longestName();}
 
 
@@ -24,3 +25,4 @@ public static class LongestName{
           }
   
   }
+
